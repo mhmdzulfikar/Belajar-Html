@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belajar Html</title>
+</head>
+<body>
+    <h2>Tag Heading</h2>
+    <hr>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+    <hr>
+
+    <h2>Tag Paragraf, HR, dan BR</h2>
+
+    <br>
+    <hr>
+    <p>Isi Ini adalah tulisan yang berada dalam paragraf.
+        Dengan tag ini maka tampilan dalam web akan menjadi
+        lebih rapi paragraf</p>
+    <hr>
+    <br>
+
+        <h2>Pemformatan Teks</h2>
+        <hr>
+        <p>Teks <b>ini dicetak tebal</b></p>
+        <p>Teks <i>ini dicetak miring</i></p>
+        <p>Dan ini adalah <sub>subscript</sub>
+        dan <sup>superscript</sup></p>
+        <hr>
+    <br>
+
+    <h2>Anchor / Hyperlink Tag</h2>
+    <hr>
+    <P>• Link ke halaman website lain
+    <a href="http://chung.web.id">website</a>
+    <br>
+    • Link ke file lain dalam satu website
+    <a href="halaman2.html">Halaman 2</a> </P>
+    <hr>
+
+
+    <h2>Image Tag</h2>
+    <hr>
+    <title>Universitas Pelita Bangsa</title>
+    <img src="logo-pelita.jpg" width="200px" height="200px" alt="Logo Universitas Pelita Bangsa"/>
+    <hr>
+    <br>
+
+    <h2><.!--Tag Komentar --></h2>
+    <hr>
+    <!-- Ini adalah contoh paragraf -->
+    <p>paragraf pertama ini menjelaskan
+        tentang penggunaan Tag paragraf
+    </p>
+    <hr>
+
+</body>
+</html>
