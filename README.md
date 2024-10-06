@@ -11,9 +11,9 @@
 <h1>: Heading tingkat pertama, digunakan untuk judul utama.
 <h2>: Heading tingkat kedua, untuk subjudul besar.
 <h3> - <h6>: Heading dengan ukuran lebih kecil dari yang sebelumnya, digunakan untuk sub-sub judul
-
+<hr>
 ![Screenshot 2024-10-06 202943](https://github.com/user-attachments/assets/cd71a3ca-732f-49e1-b818-81dc1560c9cb)
-
+<hr>
 
 2. <h2>Tag Paragraf, HR, dan BR</h2>
     <br>
@@ -28,7 +28,7 @@ Contoh: "Isi Ini adalah tulisan yang berada dalam paragraf..." dibungkus dalam t
 - Tag <hr> digunakan untuk membuat suatu line
 
 ![image](https://github.com/user-attachments/assets/73102a04-a385-4c15-9f7c-8236860c10d4)
-
+<hr>
 
 4.  <h2>Pemformatan Teks</h2>
         <hr>
@@ -45,7 +45,7 @@ Tag <b>, <i>, <sub>, dan <sup>:
 - <sup> (superscript): Membuat teks lebih kecil dan berada di atas teks normal. Biasanya digunakan untuk eksponen. Contoh: <sup>superscript</sup>.
 
 ![image](https://github.com/user-attachments/assets/4e80e707-0401-4226-8b4d-d0509cb69805)
-
+<hr>
 
 5. <h2>Anchor / Hyperlink Tag</h2>
     <hr>
@@ -61,6 +61,7 @@ Tag <a> (Anchor / Hyperlink):
 - href="halaman2.html": Link menuju file lain di dalam website yang sama (internal link).
 - Teks antara tag <a> menjadi teks yang bisa diklik oleh pengguna.
 ![image](https://github.com/user-attachments/assets/00974e51-09ed-48ce-9899-7b9c9ff272e2)
+<hr>
 
 
 6. <h2>Image Tag</h2>
@@ -76,7 +77,7 @@ src="logo-pelita.jpg": Menentukan sumber gambar yang akan ditampilkan.
 Contoh ini menampilkan gambar logo universitas dengan ukuran 200x200 piksel.
 
 ![image](https://github.com/user-attachments/assets/a2cfde4c-3070-4794-b2ec-22de5837c232)
-
+<hr>
   
 7. <h2><.!--Tag Komentar --></h2>
     <hr>
@@ -84,6 +85,7 @@ Contoh ini menampilkan gambar logo universitas dengan ukuran 200x200 piksel.
     <p>paragraf pertama ini menjelaskan
         tentang penggunaan Tag paragraf
     </p>
+<hr>
 
 Tag Komentar <!-- -->:
 - Komentar digunakan untuk menyisipkan catatan atau penjelasan dalam kode yang tidak akan ditampilkan pada halaman web. Ini hanya akan terlihat di kode sumber HTML dan tidak mempengaruhi tampilan web.
@@ -91,4 +93,4 @@ Di sini ada komentar: <!-- Ini adalah contoh paragraf --> yang hanya berfungsi s
 
 ![image](https://github.com/user-attachments/assets/473aa381-b8c9-4663-84b8-9a947092bd25)
 
-
+<hr>
