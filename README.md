@@ -18,14 +18,14 @@
 2. <h2>Tag Paragraf, HR, dan BR</h2>
     <br>
     <hr>
-    <p>Isi Ini adalah tulisan yang berada dalam paragraf.
+    p Isi Ini adalah tulisan yang berada dalam paragraf.
         Dengan tag ini maka tampilan dalam web akan menjadi
-        lebih rapi paragraf</p>
+        lebih rapi paragraf p
     <hr>
 - Tag <p> digunakan untuk membuat paragraf. Ini adalah tag yang digunakan untuk menampung teks dengan spasi dan format yang rapi. Setiap kali kamu ingin membuat blok teks terpisah, kamu bisa menggunakan tag ini.
 Contoh: "Isi Ini adalah tulisan yang berada dalam paragraf..." dibungkus dalam tag <p>, menunjukkan teks paragraf
-- Tag <br> digunakan untuk membuat suatu  pemisah. Ini adalah tag yang digunakan memisahkan suatu code menggunakan <br> "break".
-- Tag <hr> digunakan untuk membuat suatu line
+- Tag br digunakan untuk membuat suatu  pemisah. Ini adalah tag yang digunakan memisahkan suatu code menggunakan br (line break).
+- Tag hr digunakan untuk membuat suatu horizontal (horizontal rule)
 
 ![image](https://github.com/user-attachments/assets/73102a04-a385-4c15-9f7c-8236860c10d4)
 <hr>
