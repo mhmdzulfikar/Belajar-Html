@@ -8,9 +8,9 @@
     <h6>Heading 6</h6>
     <hr>
 - Tag Heading digunakan untuk membuat judul atau subjudul dengan ukuran dan hierarki yang berbeda. Heading 1  memiliki ukuran terbesar dan Heading 6 yang terkecil. Dalam kode ini, digunakan berbagai level heading untuk menampilkan judul dengan tingkatan yang berbeda:
-Heading 1 tingkat pertama, digunakan untuk judul utama.
-Heading tingkat kedua, untuk subjudul besar.
-3 - 6 Heading dengan ukuran lebih kecil dari yang sebelumnya, digunakan untuk sub-sub judul.
+- Heading 1 tingkat pertama, digunakan untuk judul utama.
+- Heading 2 tingkat kedua, untuk subjudul besar.
+- 3 - 6 Heading dengan ukuran lebih kecil dari yang sebelumnya, digunakan untuk sub-sub judul.
 <hr>
 ![Screenshot 2024-10-06 202943](https://github.com/user-attachments/assets/cd71a3ca-732f-49e1-b818-81dc1560c9cb)
 <hr>
